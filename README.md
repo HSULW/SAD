@@ -7,4 +7,4 @@
 - 系級 ：科技系113級 
 
 ### 作業繳交
-0307 [Meta心智圖試做](https://gitmind.com/app/docs/m90n01dj)\
+0307 [Meta心智圖試做](https://gitmind.com/app/docs/m90n01dj)/
