@@ -13,5 +13,5 @@
 
 ### 個人作業繳交
 - Homework1 
-[GitMind](https://gitmind.com/app/docs/m90n01dj)/
+[GitMind](https://gitmind.com/app/docs/m90n01dj)<br\>
 
