@@ -13,8 +13,8 @@
 
 ### 個人作業繳交
 >**Homework1 - 領域簡介**<br/>
-[GitMind](https://gitmind.com/app/docs/m90n01dj)/
-[Video]/
+[GitMind](https://gitmind.com/app/docs/m90n01dj)\
+[Video]\
 [PDF]
 
 
