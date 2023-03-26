@@ -12,6 +12,6 @@
 - 0307 [Meta XR心智圖試做](https://gitmind.com/app/docs/m90n01dj)
 
 ### 個人作業繳交
-- Homework1 
->** [GitMind](https://gitmind.com/app/docs/m90n01dj)**<br\>
+>**Homework1**<br\>
+[GitMind](https://gitmind.com/app/docs/m90n01dj)\
 
