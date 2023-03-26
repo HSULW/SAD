@@ -15,7 +15,7 @@
 >**Homework1 - 領域簡介**<br/>
 [GitMind](https://gitmind.com/app/docs/m90n01dj)\
 [Video](https://youtu.be/pf5QpR9VisQ)\
-[PPT](https://github.com/HSULW/SAD/blob/main/HW1/Meta%20XR_%20gitmind.pptx)
+[PPT](https://github.com/HSULW/SAD/blob/main/HW1/Meta%20XR_%20gitmind.pptx)\
 \
 >**Homework2 - 領域簡介**<br/>
 [GitMind](https://gitmind.com/app/docs/m90n01dj)\
