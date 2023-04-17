@@ -21,10 +21,10 @@
         <td align="center">完成度</td>
     </tr>
     <tr>
-        <td><s>~四月底</s></td>
-        <td><s>熟悉C#語法、Unity介面操作</s></td>
-        <td><s>Unity、VSC<s></td>
-        <td><s>可以建立物體並拖動、加入不同功能<s></td>
+        <td>~四月底</s></td>
+        <td>熟悉C#語法、Unity介面操作</s></td>
+        <td>Unity、VSC<s></td>
+        <td>可以建立物體並拖動、加入不同功能<s></td>
         <td align="center">➖</td>
     </tr>
     <tr>
