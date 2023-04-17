@@ -28,24 +28,24 @@
         <td align="center">➖</td>
     </tr>
     <tr>
-        <td><s>四月底~五月中</s></td>
-        <td><s>了解如何將應用程式部署到Oculus Quest2頭盔</s></td>
-        <td><s>Oculus Hub、Oculus Quest2<s></td>
-        <td><s>能夠將簡易版應用程式發表到頭盔上並進行操作<s></td>
+        <td>四月底~五月中</s></td>
+        <td>了解如何將應用程式部署到Oculus Quest2頭盔</s></td>
+        <td>Oculus Hub、Oculus Quest2<s></td>
+        <td>能夠將簡易版應用程式發表到頭盔上並進行操作<s></td>
         <td align="center">➖</td>
     </tr>
     <tr>
-        <td><s>五月中</s></td>
-        <td><s>探索本學期預計完成的專案</s></td>
-        <td><s>Oculus Hub、Oculus Quest2、Unity<s></td>
-        <td><s>確定目標與製作方向<s></td>
+        <td>五月中</s></td>
+        <td>探索本學期預計完成的專案</s></td>
+        <td>Oculus Hub、Oculus Quest2、Unity<s></td>
+        <td>確定目標與製作方向<s></td>
         <td align="center">➖</td>
     </tr>
     <tr>
-        <td><s>五月~學期末</s></td>
-        <td><s>完成專案並發表</s></td>
-        <td><s>Oculus Hub、Oculus Quest2、Unity<s></td>
-        <td><s>專案至少有80%以上完成度<s></td>
+        <td>五月~學期末</s></td>
+        <td>完成專案並發表</s></td>
+        <td>Oculus Hub、Oculus Quest2、Unity<s></td>
+        <td>專案至少有80%以上完成度<s></td>
         <td align="center">➖</td>
     </tr>
 </table>
