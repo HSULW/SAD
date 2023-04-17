@@ -60,8 +60,7 @@
 [Video](https://youtu.be/ZeJeLFuMDp8)\
 [PPT](https://github.com/HSULW/SAD/blob/main/HW1/Meta%20XR_%20gitmind.pptx)**<br/>
 
-https://youtu.be/uUhaF3RCM-k
 #### HomeWork 2 - 新手上路
 >**[Video](https://youtu.be/uUhaF3RCM-k)\
-[PPT](https://github.com/HSULW/SAD/blob/main/HW1/Meta%20XR_%20gitmind.pptx)**<br/>
+[Date](https://github.com/HSULW/SAD/blob/main/HW2/%E6%97%A5%E7%A8%8B.pdf)**<br/>
 
