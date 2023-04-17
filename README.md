@@ -25,7 +25,7 @@
         <td>熟悉C#語法、Unity介面操作</s></td>
         <td>Unity、VSC<s></td>
         <td>可以建立物體並拖動、加入不同功能<s></td>
-        <td align="center">➖</td>
+        <td align="center">70%</td>
     </tr>
     <tr>
         <td>四月底~五月中</s></td>
