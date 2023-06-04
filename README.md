@@ -66,5 +66,5 @@
 
 #### Final Project - 專題製作
 >**[PPT](https://docs.google.com/presentation/d/1SA2MhiRTQdYJEwuybkQGXixLjYfACqJz/edit?usp=sharing&ouid=116435839243236727165&rtpof=true&sd=true)\
-[Video](https://youtu.be/ypFemCb2mXE)
-[Project](https://github.com/HSULW/SAD/tree/main/Assets)
+[Video](https://youtu.be/ypFemCb2mXE)\
+[Project](https://github.com/HSULW/SAD/tree/main/Assets)**<br/>
