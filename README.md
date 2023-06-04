@@ -64,3 +64,6 @@
 >**[Video](https://youtu.be/uUhaF3RCM-k)\
 [Date](https://github.com/HSULW/SAD/blob/main/HW2/%E6%97%A5%E7%A8%8B.pdf)**<br/>
 
+#### Final Project - 專題製作
+>**[PPT](https://docs.google.com/presentation/d/1SA2MhiRTQdYJEwuybkQGXixLjYfACqJz/edit?usp=sharing&ouid=116435839243236727165&rtpof=true&sd=true)
+[Video](https://youtu.be/ypFemCb2mXE)
